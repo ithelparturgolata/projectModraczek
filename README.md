@@ -57,6 +57,7 @@ List of features ready and TODOs for future development
 To-do list:
 * Try and Except in searching fields
 * Textbox message
+* TDD
 
 ## Status
 Project is: _in progress_, 
